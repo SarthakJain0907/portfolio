@@ -10,12 +10,16 @@ export default function FirstPost(){
             <Head>
                 <title>Work</title>
             </Head>
-        
             <h1 className={stylesWork.heading}>Schoohouse.World, Tutor</h1>
             <ul>
                 <li>Certifications: Pre-Algebra, Algebra 1, Sat Math.</li>
                 <li>My most common feedbacks are: &apos;Friendly&apos;, &apos;Patient&apos;, &apos;Interactive&apos; and &apos;Good Explanations&apos;.</li>
                 <li>Schoolhouse Profile: <a href='https://schoolhouse.world/u/19943'>here</a></li>
+            </ul>
+            <h1 className={stylesWork.heading}>New York Math Circle, Teaching Assistant</h1>
+            <ul>
+                <li>Taught an intensive summer program on topics of number theory.</li>
+                <li>Prepared students for competitive exams such as AMC8 and AMC10</li>
             </ul>
             <h1 className={stylesWork.heading}>Hemingwayd, Co-founder & Head of Technology</h1>
             <ul>
