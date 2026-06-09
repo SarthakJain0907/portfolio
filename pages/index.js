@@ -11,7 +11,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I am interested in Mathematics, Web Development, tennis, and pretty much anything that comes my way.</p>
+        <p>I am interested in studying Mathematics, Web Development, playing tennis, and reading all while listening to music.</p>
         <p>The code for this website is on github: <Link href="https://github.com/SarthakJain0907/portfolio/tree/main">here</Link></p>
       </section>
     </Layout>
